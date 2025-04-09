@@ -1,0 +1,362 @@
+[
+    {
+        "id": 1,
+        "nivel": "A1",
+        "frase ingles": "I have a cat",
+        "frase español": "Tengo un gato"
+    },
+    {
+        "id": 2,
+        "nivel": "A1",
+        "frase ingles": "She is my friend",
+        "frase español": "Ella es mi amiga"
+    },
+    {
+        "id": 3,
+        "nivel": "A1",
+        "frase ingles": "I live in a small house",
+        "frase español": "Vivo en una casa pequeña"
+    },
+    {
+        "id": 4,
+        "nivel": "A1",
+        "frase ingles": "We live in Spain",
+        "frase español": "Vivimos en España"
+    },
+    {
+        "id": 5,
+        "nivel": "A1",
+        "frase ingles": "My favorite color is blue",
+        "frase español": "Mi color favorito es el azul"
+    },
+    {
+        "id": 6,
+        "nivel": "A1",
+        "frase ingles": "Where do you live?",
+        "frase español": "¿Dónde vives?"
+    },
+    {
+        "id": 7,
+        "nivel": "A1",
+        "frase ingles": "The weather is nice",
+        "frase español": "El clima es agradable"
+    },
+    {
+        "id": 8,
+        "nivel": "A1",
+        "frase ingles": "The cat is under the table",
+        "frase español": "El gato está debajo de la mesa"
+    },
+    {
+        "id": 9,
+        "nivel": "A1",
+        "frase ingles": "They are playing in the park",
+        "frase español": "Ellos están jugando en el parque"
+    },
+    {
+        "id": 10,
+        "nivel": "A1",
+        "frase ingles": "We are going to the cinema",
+        "frase español": "Vamos al cine"
+    },
+    {
+        "id": 11,
+        "nivel": "A2",
+        "frase ingles": "I'm going to visit my grandparents next weekend",
+        "frase español": "Voy a visitar a mis abuelos el próximo fin de semana"
+    },
+    {
+        "id": 12,
+        "nivel": "A2",
+        "frase ingles": "I've been studying English for two years",
+        "frase español": "Llevo estudiando inglés dos años"
+    },
+    {
+        "id": 13,
+        "nivel": "A2",
+        "frase ingles": "I think I've lost my keys",
+        "frase español": "Creo que he perdido mis llaves"
+    },
+    {
+        "id": 14,
+        "nivel": "A2",
+        "frase ingles": "She was waiting for the bus when it started to rain",
+        "frase español": "Ella estaba esperando el autobús cuando empezó a llover"
+    },
+    {
+        "id": 15,
+        "nivel": "A2",
+        "frase ingles": "We went to the museum and saw some beautiful paintings",
+        "frase español": "Fuimos al museo y vimos algunas pinturas hermosas"
+    },
+    {
+        "id": 16,
+        "nivel": "A2",
+        "frase ingles": "Do you know how to cook pasta?",
+        "frase español": "¿Sabes cómo cocinar pasta?"
+    },
+    {
+        "id": 17,
+        "nivel": "A2",
+        "frase ingles": "She hasn't finished her work yet",
+        "frase español": "Ella aún no ha terminado su trabajo"
+    },
+    {
+        "id": 18,
+        "nivel": "A2",
+        "frase ingles": "The weather is better than it was yesterday",
+        "frase español": "El clima está mejor que ayer"
+    },
+    {
+        "id": 19,
+        "nivel": "A2",
+        "frase ingles": "She wasn't at home when I called",
+        "frase español": "Ella no estaba en casa cuando llamé"
+    },
+    {
+        "id": 20,
+        "nivel": "A2",
+        "frase ingles": "I've never been to Paris before",
+        "frase español": "Nunca he estado en París antes"
+    },
+    {
+        "id": 21,
+        "nivel": "B1",
+        "frase ingles": "This year I want to focus more on my personal development",
+        "frase español": "Este año quiero enfocarme más en mi desarrollo personal"
+    },
+    {
+        "id": 22,
+        "nivel": "B1",
+        "frase ingles": "You shouldn't worry so much about the small details",
+        "frase español": "No deberías preocuparte tanto por los pequeños detalles"
+    },
+    {
+        "id": 23,
+        "nivel": "B1",
+        "frase ingles": "I haven't decided where to go on vacation yet",
+        "frase español": "Todavía no he decidido a dónde ir de vacaciones"
+    },
+    {
+        "id": 24,
+        "nivel": "B1",
+        "frase ingles": "He has already finished his homework, so he's watching TV",
+        "frase español": "Él ya ha terminado su tarea, así que está viendo la televisión"
+    },
+    {
+        "id": 25,
+        "nivel": "B1",
+        "frase ingles": "I need to finish this report before the end of the day",
+        "frase español": "Necesito terminar este informe antes de que termine el día"
+    },
+    {
+        "id": 26,
+        "nivel": "B1",
+        "frase ingles": "She is the most talented musician I know",
+        "frase español": "Ella es la música más talentosa que conozco"
+    },
+    {
+        "id": 27,
+        "nivel": "B1",
+        "frase ingles": "I had never seen such a beautiful painting before",
+        "frase español": "Nunca había visto una pintura tan hermosa antes"
+    },
+    {
+        "id": 28,
+        "nivel": "B1",
+        "frase ingles": "If I had studied more, I would have passed the exam",
+        "frase español": "Si hubiera estudiado más, habría aprobado el examen"
+    },
+    {
+        "id": 29,
+        "nivel": "B1",
+        "frase ingles": "The more I practice, the better I become",
+        "frase español": "Cuanto más practico, mejor me vuelvo"
+    },
+    {
+        "id": 30,
+        "nivel": "B1",
+        "frase ingles": "I didn't realize how late it was until I looked at my watch",
+        "frase español": "No me di cuenta de lo tarde que era hasta que miré mi reloj"
+    },
+    {
+        "id": 31,
+        "nivel": "B2",
+        "frase ingles": "She has been working here for over a decade and has seen changes",
+        "frase español": "Ha estado trabajando aquí durante más de una década y ha visto cambios"
+    },
+    {
+        "id": 32,
+        "nivel": "B2",
+        "frase ingles": "The weather was so bad that we decided to stay indoors",
+        "frase español": "El clima era tan malo que decidimos quedarnos dentro"
+    },
+    {
+        "id": 33,
+        "nivel": "B2",
+        "frase ingles": "I wish you had told me about the meeting beforehand",
+        "frase español": "Ojalá me hubieras dicho sobre la reunión con antelación"
+    },
+    {
+        "id": 34,
+        "nivel": "B2",
+        "frase ingles": "There's no point in worrying about things you can't control",
+        "frase español": "No tiene sentido preocuparse por cosas que no puedes controlar"
+    },
+    {
+        "id": 35,
+        "nivel": "B2",
+        "frase ingles": "The more you practice, the easier it becomes",
+        "frase español": "Cuanto más practicas, más fácil se vuelve"
+    },
+    {
+        "id": 36,
+        "nivel": "B2",
+        "frase ingles": "Had I known about the event, I would have prepared something special",
+        "frase español": "Si hubiera sabido del evento, habría preparado algo especial"
+    },
+    {
+        "id": 37,
+        "nivel": "B2",
+        "frase ingles": "If I could turn back time, I would do things differently",
+        "frase español": "Si pudiera retroceder el tiempo, haría las cosas de manera diferente"
+    },
+    {
+        "id": 38,
+        "nivel": "B2",
+        "frase ingles": "He has a good sense of humor, which makes him popular",
+        "frase español": "Tiene un buen sentido del humor, lo que lo hace popular"
+    },
+    {
+        "id": 39,
+        "nivel": "B2",
+        "frase ingles": "Had I known you were coming, I would have made dinner",
+        "frase español": "Si hubiera sabido que venías, habría preparado la cena"
+    },
+    {
+        "id": 40,
+        "nivel": "B2",
+        "frase ingles": "I'm looking forward to our next vacation",
+        "frase español": "Estoy esperando con ansias nuestras próximas vacaciones"
+    },
+    {
+        "id": 41,
+        "nivel": "C1",
+        "frase ingles": "I was under the assumption that the meeting had been postponed",
+        "frase español": "Estaba bajo la suposición de que la reunión había sido pospuesta"
+    },
+    {
+        "id": 42,
+        "nivel": "C1",
+        "frase ingles": "Had the government acted sooner, damage could have been avoided",
+        "frase español": "Si el gobierno hubiera actuado antes, el daño podría haberse evitado"
+    },
+    {
+        "id": 43,
+        "nivel": "C1",
+        "frase ingles": "The film was praised for its innovative approach to storytelling",
+        "frase español": "La película fue elogiada por su enfoque innovador de la narración"
+    },
+    {
+        "id": 44,
+        "nivel": "C1",
+        "frase ingles": "She managed to maintain her composure despite the challenging circumstances",
+        "frase español": "Ella logró mantener la compostura a pesar de las circunstancias desafiantes"
+    },
+    {
+        "id": 45,
+        "nivel": "C1",
+        "frase ingles": "Had it not been for her quick thinking, the situation could have escalated",
+        "frase español": "Si no hubiera sido por su rápida manera de pensar, la situación podría haber escalado"
+    },
+    {
+        "id": 46,
+        "nivel": "C1",
+        "frase ingles": "There is a growing consensus that more needs to be done to combat climate change",
+        "frase español": "Existe un consenso creciente de que se necesita hacer más para combatir el cambio climático"
+    },
+    {
+        "id": 47,
+        "nivel": "C1",
+        "frase ingles": "The decision to cut funding has sparked a great deal of controversy",
+        "frase español": "La decisión de recortar fondos ha generado mucha controversia"
+    },
+    {
+        "id": 48,
+        "nivel": "C1",
+        "frase ingles": "He is well-known for his ability to think on his feet during high-pressure situations",
+        "frase español": "Es conocido por su capacidad para pensar con rapidez en situaciones de alta presión"
+    },
+    {
+        "id": 49,
+        "nivel": "C1",
+        "frase ingles": "She felt an overwhelming sense of gratitude for the support she had received",
+        "frase español": "Sintió un abrumador sentimiento de gratitud por el apoyo que había recibido"
+    },
+    {
+        "id": 50,
+        "nivel": "C1",
+        "frase ingles": "The company has been struggling to stay afloat amid the economic downturn",
+        "frase español": "La empresa ha estado luchando por mantenerse a flote en medio de la recesión económica"
+    },
+    {
+        "id": 51,
+        "nivel": "C2",
+        "frase ingles": "Her performance in the debate was nothing short of extraordinary",
+        "frase español": "Su desempeño en el debate fue nada menos que extraordinario"
+    },
+    {
+        "id": 52,
+        "nivel": "C2",
+        "frase ingles": "It's imperative that we address these issues with a sense of urgency",
+        "frase español": "Es imperativo que abordemos estos problemas con sentido de urgencia"
+    },
+    {
+        "id": 53,
+        "nivel": "C2",
+        "frase ingles": "Her unwavering commitment to excellence was evident in her work",
+        "frase español": "Su compromiso inquebrantable con la excelencia era evidente en su trabajo"
+    },
+    {
+        "id": 54,
+        "nivel": "C2",
+        "frase ingles": "It requires a discerning eye to appreciate the subtleties of the text",
+        "frase español": "Se requiere un ojo crítico para apreciar las sutilezas del texto"
+    },
+    {
+        "id": 55,
+        "nivel": "C2",
+        "frase ingles": "Despite their differences, they reached a consensus",
+        "frase español": "A pesar de sus diferencias, llegaron a un consenso"
+    },
+    {
+        "id": 56,
+        "nivel": "C2",
+        "frase ingles": "The findings were interpreted with a commendable level of insight",
+        "frase español": "Los hallazgos fueron interpretados con un nivel de perspicacia encomiable"
+    },
+    {
+        "id": 57,
+        "nivel": "C2",
+        "frase ingles": "The presentation was both thought-provoking and informative",
+        "frase español": "La presentación fue tanto estimulante como informativa"
+    },
+    {
+        "id": 58,
+        "nivel": "C2",
+        "frase ingles": "The clarity of his argument left little room for doubt",
+        "frase español": "La claridad de su argumento dejó poco margen para la duda"
+    },
+    {
+        "id": 59,
+        "nivel": "C2",
+        "frase ingles": "The discussion was enlightening, shedding new light on the subject",
+        "frase español": "La discusión fue esclarecedora, arrojando nueva luz sobre el tema"
+    },
+    {
+        "id": 60,
+        "nivel": "C2",
+        "frase ingles": "The argument was so well-constructed that it left no room for rebuttal",
+        "frase español": "El argumento estaba tan bien construido que no dejó espacio para la réplica"
+    }
+]

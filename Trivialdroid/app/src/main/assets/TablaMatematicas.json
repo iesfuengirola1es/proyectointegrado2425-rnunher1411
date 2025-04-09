@@ -1,0 +1,32 @@
+[
+	{
+		"id": 1,
+		"nombre": "Suma",
+		"simbolo": "+"
+	},
+	{
+		"id": 2,
+		"nombre": "Resta",
+		"simbolo": "-"
+	},
+	{
+		"id": 3,
+		"nombre": "Multiplicación",
+		"simbolo": "*"
+	},
+	{
+		"id": 4,
+		"nombre": "División",
+		"simbolo": "/"
+	},
+	{
+		"id": 5,
+		"nombre": "Variado",
+		"simbolo": "+,-,*,/"
+	},
+	{
+		"id": 6,
+		"nombre": "Algebra",
+		"simbolo": "a,b"
+	}
+]
