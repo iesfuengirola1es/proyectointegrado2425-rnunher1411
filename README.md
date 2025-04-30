@@ -35,11 +35,14 @@ Obviamente la operación cambiará a una con diferentes números (y operaciones 
 
 ### Inglés
 
+![Cuarta foto del proyecto](/Maqueta_de_proyecto_Figma/frame5.jpg)
+
 Al elegir inglés tendrás que elegir cuál será el nivel de idioma de la actividad, en este caso al poder elegir más de uno a la vez decidí mostrarlo como Checkboxes en vez de un Spinner.
 También debes elegir si el idioma de las frases que deberás traducir al otro idioma estarán en español o en inglés. 
 
 Tras haber decidido las opciones podrá iniciar tras pulsar el botón.
 
+![Quinta foto del proyecto](/Maqueta_de_proyecto_Figma/frame6.jpg)
 
 El temporizador mostrará el tiempo de la actividad (en esta asignatura siempre durará 5 minutos) y cuando este llegue a cero pasaremos a la pantalla de resultados. También podrás vislumbrar a tiempo real los aciertos y fallos llevados por el momento. A diferencia de matemáticas los errores y aciertos sólo se aplicarán al pulsar el botón de Comprobar traducción (el botón solo funcionará una vez por frase).
 
