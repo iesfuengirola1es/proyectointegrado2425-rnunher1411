@@ -1,26 +1,28 @@
 # proyectointegrado2425-rnunher1411
 proyectointegrado2425-rnunher1411 created by GitHub Classroom
 
-TRIVIALDROID
+## TRIVIALDROID
 
 
-Pantalla de inicio
+### Pantalla de inicio
 
 Se trata de un programa educativo que ofrece ejercicios simples de matemáticas e inglés simples, centrados en el nivel de primaria y secundaria.
 
-
+![Primera foto del proyecto](/Maqueta_de_proyecto_Figma/frame1.jpg)
 
 
 Al principio podrás elegir cual de las dos asignaturas deseas seleccionar para practicar. Por eso dividiremos la explicación en cada una de ellas:
 
 
+### Matemáticas
 
-
-Matemáticas
+![Segunda foto del proyecto](/Maqueta_de_proyecto_Figma/frame2.jpg)
 
 Al elegir matemáticas tendrás que elegir cuál será la condición de las operaciones (suma, resta, multiplicación, división, las cuatro antes mencionadas al mismo tiempo o álgebra) y por cuanto tiempo desees que dure la sesión (de uno a cinco minutos). 
 
 Tras haber decidido las opciones podrá iniciar tras pulsar el botón.
+
+![Tercera foto del proyecto](/Maqueta_de_proyecto_Figma/frame3.jpg)
 
 El temporizador mostrará el tiempo asignado en las opciones y cuando este llegue a cero pasaremos a la pantalla de resultados. También podrás vislumbrar a tiempo real los aciertos y fallos llevados por el momento.
 
@@ -31,9 +33,7 @@ Abajo hay 3 botones con cada uno un resultado diferente, uno de ellos es el corr
 Obviamente la operación cambiará a una con diferentes números (y operaciones si eliges la opción de varios operadores o álgebra) cada vez que pulses un botón.
 
 
-
-
-Inglés
+### Inglés
 
 Al elegir inglés tendrás que elegir cuál será el nivel de idioma de la actividad, en este caso al poder elegir más de uno a la vez decidí mostrarlo como Checkboxes en vez de un Spinner.
 También debes elegir si el idioma de las frases que deberás traducir al otro idioma estarán en español o en inglés. 
@@ -52,7 +52,8 @@ Al pulsar el botón Siguiente frase el Edit Text se vacía, la frase cambia, su 
 En el caso que logres traducir a tiempo todas las frases disponibles también darás por terminado la actividad entrando a la pantalla de resultados finales sin necesidad de que el cronómetro llegue a 0.
 
 
+### Pantalla resultados finales
 
-Pantalla resultados finales
+![Sexta foto del proyecto](/Maqueta_de_proyecto_Figma/frame4.jpg)
 
 Al acabarse el tiempo en la actividad de algunas de las asignaturas llegarás a esta pantalla que te felicitará por acabar la actividad, te dirá el resultado final y podrás pulsar el botón de reiniciar la sesión (te llevará a la pantalla de opciones de la asignatura) o el botón de inicio (que te llevará devuelta a la selección de asignaturas).
