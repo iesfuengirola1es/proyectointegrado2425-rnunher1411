@@ -33,9 +33,10 @@ public class InglesActivity2 extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_ingles2);
 
+        //hola
         ArrayList<String[]> valoresFrasesSeleccionadas = (ArrayList<String[]>)getIntent().getSerializableExtra("frasesSeleccionadas");
 
-        minutos = Integer.valueOf(5);
+        minutos = Integer.valueOf(1);
         segundos = 0;
 
         textoCronometro = (TextView) findViewById(R.id.textoCronometro2);
