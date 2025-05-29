@@ -25,6 +25,12 @@
             android:name=".InglesActivity"
             android:exported="false" />
         <activity
+            android:name=".InglesActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".InglesActivity3"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
